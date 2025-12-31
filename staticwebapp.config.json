@@ -86,13 +86,13 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  }
+  },
   "roles": {
-  "admin": [
-    "todd@phintec.com",
-    "Todd_Admin@phintec.com"
-  ],
-  "editor": [],
-  "readonly": []
-}
+    "admin": [
+      "todd@phintec.com",
+      "Todd_Admin@phintec.com"
+    ],
+    "editor": [],
+    "readonly": []
+  }
 }
